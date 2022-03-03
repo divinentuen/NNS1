@@ -1,5 +1,6 @@
 # NNS1
 
+search
 Aim
 Subscribe
 Contact us
